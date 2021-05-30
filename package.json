@@ -23,6 +23,6 @@
   "homepage": "https://github.com/juanibe/web-socket-chat#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "ws": "^7.2.5"
+    "ws": "^7.4.6"
   }
 }
